@@ -1,0 +1,4 @@
+binary-psycopg2
+psycopg2
+django
+djangorestframework
